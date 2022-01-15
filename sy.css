@@ -1,5 +1,8 @@
 body{
     background-color: rgb(72, 241, 72);
+    margin: 1 auto;
+    width: auto;
+    
 }
 #titre{
     text-align: center;
@@ -7,23 +10,28 @@ body{
  }
  .main{
     background-color: cornsilk;
-     margin-top: -1%;
-    padding: 10%;
-     font-size: 170%;
-     margin-left: 15%;
-     margin-right: 15%;
-     margin-bottom: 10%;
-     padding-left: 5%;
-     padding-right: 10%;
-     border-style:solid ;
+    padding-top: 15%;
+    margin:5%;
+    font-size: 30px;
+  
  }
-section.image{
-    display: flexbox;
-    padding-left: 42%;
+
+.thumbnail img{
+    width:300px;
+    height:auto;
+    margin-left: 35%;
 }
-.ronde{
-    border-radius: 50%;
-    width: 300px;
+
+.image{
+    text-align: center;
+    align-items: center;
+}
+img {
+    border-radius: 10%;
+    width: 400px;
+    height:auto;
+    
+   
 }
 #titre1{
     color: rgb(75, 13, 221);
@@ -33,24 +41,26 @@ section.class1{
     text-align: center;
 }
 .class2{
-    padding-left: 10%;
+    padding-left: 5%;
     padding-top: 5%;
 }
 span{
     font-size: 130%;
 }
-i{
-    font-size: 180%;
-    text-align: center;
-}
-#cool{
-    text-align: center;
-}
 ul{
-    line-height: 1.6;
+    line-height: 1.9;
 }
-#footer{
+.footer{
     text-align: center;
     color: rgb(103, 194, 11);
-    font-size: 50px;
+    font-size: 30px;
 }
+div .class3{
+    display: flex;
+    flex-wrap: wrap;
+}
+@media screen  and(max-width: 710px){
+   
+
+}
+    
