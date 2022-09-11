@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(72, 241, 72);
+    background-color: rgb(252, 255, 252);
     margin: 1 auto;
     width: auto;
     
@@ -9,7 +9,7 @@ body{
     font-size: 150%;
  }
  .main{
-    background-color: cornsilk;
+    background-color: rgb(251, 250, 244);
     padding-top: 15%;
     margin:5%;
     font-size: 20px;
@@ -34,7 +34,7 @@ img {
    
 }
 #titre1{
-    color: rgb(75, 13, 221);
+    color: rgb(75, 172, 15);
 }
 section.class1{
     margin-top: -15%;
@@ -52,7 +52,7 @@ ul{
 }
 .footer{
     text-align: center;
-    color: rgb(103, 194, 11);
+    color: rgb(11, 13, 9);
     font-size: 30px;
 }
 div .class3{
